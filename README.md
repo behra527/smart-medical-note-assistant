@@ -1,4 +1,4 @@
-# Smart Medical Note Assistant
+﻿# Smart Medical Note Assistant
 
 An AI-powered Streamlit application that transforms practitioner-provided notes into structured clinical note drafts using an LLM API, dynamic prompting, and schema validation.
 
@@ -48,7 +48,7 @@ Smart Medical Note Assistant helps organize practitioner notes into a structured
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/behra527/smart-medical-note-assistant.git
 cd smart-medical-note-assistant
 ```
 
@@ -127,3 +127,4 @@ The output is validated against a Pydantic schema before it is returned by the g
 ## Disclaimer
 
 For educational and software development purposes only. This application does not replace professional medical judgment. Every generated note must be reviewed by a qualified healthcare professional before clinical use.
+

@@ -1,0 +1,8 @@
+﻿streamlit>=1.40,<2.0
+openai>=1.50,<3.0
+pydantic>=2.8,<3.0
+pydantic-settings>=2.4,<3.0
+python-dotenv>=1.0,<2.0
+tenacity>=9.0,<10.0
+tiktoken>=0.8,<1.0
+pytest>=8.0,<10.0
